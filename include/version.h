@@ -1,0 +1,4 @@
+#define GIT_VERSION "289159fd89ea83f6e3b231d58d0a6249d38d6a3b"
+#define SOFT_VERSION "2.0"
+#define HOST_NAME_ID "JoUbuntu 007f0101"
+#define DATE_VERSION "2014-06-12-10-19-01"

@@ -1,0 +1,4 @@
+#define GIT_VERSION "X1X"
+#define SOFT_VERSION "2.0"
+#define HOST_NAME_ID "X2X"
+#define DATE_VERSION "X3X"
